@@ -1,0 +1,58 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="musefree.com" resolutions="1x,2x" timestamp="1479205915442">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4286351784" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u3890.php" crc="4289982366" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="11-u1850-fr.png" crc="400549448" ref="index"/>
+    <file name="u3617-4.png" crc="274325169" ref="index"/>
+    <file name="u3617-4_2x.png" crc="262935513" ref="index"/>
+    <file name="u3810-4.png" crc="506985549" ref="index"/>
+    <file name="u3810-4_2x.png" crc="223552050" ref="index"/>
+    <file name="u3851-4.png" crc="3803738446" ref="index"/>
+    <file name="u3851-4_2x.png" crc="3924761788" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1633.png" crc="4239597987" ref="index"/>
+    <file name="u1633_2x.png" crc="4088703439" ref="index"/>
+    <file name="u1633-r.png" crc="266458667" ref="index"/>
+    <file name="u1633-r_2x.png" crc="4140544680" ref="index"/>
+    <file name="u1716.png" crc="4119701917" ref="index"/>
+    <file name="u1716_2x.png" crc="3959032973" ref="index"/>
+    <file name="u1716-r.png" crc="189089883" ref="index"/>
+    <file name="u1716-r_2x.png" crc="4039224153" ref="index"/>
+    <file name="u1695.png" crc="4123304635" ref="index"/>
+    <file name="u1695_2x.png" crc="4152514322" ref="index"/>
+    <file name="u1695-r.png" crc="4260292885" ref="index"/>
+    <file name="u1695-r_2x.png" crc="476315550" ref="index"/>
+    <file name="u1755.png" crc="4219820592" ref="index"/>
+    <file name="u1755_2x.png" crc="4016696706" ref="index"/>
+    <file name="u1755-r.png" crc="4093857631" ref="index"/>
+    <file name="u1755-r_2x.png" crc="298349717" ref="index"/>
+    <file name="u1779-4.png" crc="69001392" ref="index"/>
+    <file name="u1779-4_2x.png" crc="3834988904" ref="index"/>
+    <file name="979d963c.jpg" crc="4191359279" ref="index"/>
+    <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="index"/>
+    <file name="pexels-photo-large-u3299-fr.jpg" crc="3974249815" ref="index"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="19157542" seo="true" mt="1479205911999" redirect="true"/>
+</manifest>
