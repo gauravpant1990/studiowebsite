@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="musefree.com" resolutions="1x,2x" timestamp="1479205915442">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="musefree.com" resolutions="1x,2x" timestamp="1479212093940">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4286351784" ref="index"/>
+    <file name="index.css" crc="517968208" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,35 +24,41 @@
   </folder>
   <folder name="images">
     <file name="11-u1850-fr.png" crc="400549448" ref="index"/>
-    <file name="u3617-4.png" crc="274325169" ref="index"/>
-    <file name="u3617-4_2x.png" crc="262935513" ref="index"/>
-    <file name="u3810-4.png" crc="506985549" ref="index"/>
-    <file name="u3810-4_2x.png" crc="223552050" ref="index"/>
-    <file name="u3851-4.png" crc="3803738446" ref="index"/>
-    <file name="u3851-4_2x.png" crc="3924761788" ref="index"/>
+    <file name="u3617-4.png" crc="3898822331" ref="index"/>
+    <file name="u3617-4_2x.png" crc="4138995117" ref="index"/>
+    <file name="u3810-4.png" crc="11809823" ref="index"/>
+    <file name="u3810-4_2x.png" crc="3958144892" ref="index"/>
+    <file name="u3851-4.png" crc="40017600" ref="index"/>
+    <file name="u3851-4_2x.png" crc="74321066" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u1633.png" crc="4239597987" ref="index"/>
-    <file name="u1633_2x.png" crc="4088703439" ref="index"/>
-    <file name="u1633-r.png" crc="266458667" ref="index"/>
-    <file name="u1633-r_2x.png" crc="4140544680" ref="index"/>
-    <file name="u1716.png" crc="4119701917" ref="index"/>
-    <file name="u1716_2x.png" crc="3959032973" ref="index"/>
-    <file name="u1716-r.png" crc="189089883" ref="index"/>
-    <file name="u1716-r_2x.png" crc="4039224153" ref="index"/>
-    <file name="u1695.png" crc="4123304635" ref="index"/>
-    <file name="u1695_2x.png" crc="4152514322" ref="index"/>
-    <file name="u1695-r.png" crc="4260292885" ref="index"/>
-    <file name="u1695-r_2x.png" crc="476315550" ref="index"/>
-    <file name="u1755.png" crc="4219820592" ref="index"/>
-    <file name="u1755_2x.png" crc="4016696706" ref="index"/>
-    <file name="u1755-r.png" crc="4093857631" ref="index"/>
-    <file name="u1755-r_2x.png" crc="298349717" ref="index"/>
-    <file name="u1779-4.png" crc="69001392" ref="index"/>
-    <file name="u1779-4_2x.png" crc="3834988904" ref="index"/>
+    <file name="u1633.png" crc="3766210463" ref="index"/>
+    <file name="u1633_2x.png" crc="3929701584" ref="index"/>
+    <file name="u1633-r.png" crc="62345966" ref="index"/>
+    <file name="u1633-r_2x.png" crc="4276894227" ref="index"/>
+    <file name="u1716.png" crc="397701948" ref="index"/>
+    <file name="u1716_2x.png" crc="449772601" ref="index"/>
+    <file name="u1716-r.png" crc="3806890630" ref="index"/>
+    <file name="u1716-r_2x.png" crc="257645098" ref="index"/>
+    <file name="u1695.png" crc="3784252249" ref="index"/>
+    <file name="u1695_2x.png" crc="4129945092" ref="index"/>
+    <file name="u1695-r.png" crc="56094656" ref="index"/>
+    <file name="u1695-r_2x.png" crc="17854775" ref="index"/>
+    <file name="u1755.png" crc="4285129212" ref="index"/>
+    <file name="u1755_2x.png" crc="4014058220" ref="index"/>
+    <file name="u1755-r.png" crc="3826028556" ref="index"/>
+    <file name="u1755-r_2x.png" crc="3987806661" ref="index"/>
+    <file name="u1779-4.png" crc="4001382679" ref="index"/>
+    <file name="u1779-4_2x.png" crc="4014594095" ref="index"/>
     <file name="979d963c.jpg" crc="4191359279" ref="index"/>
     <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="index"/>
     <file name="pexels-photo-large-u3299-fr.jpg" crc="3974249815" ref="index"/>
     <file name="heart.png" crc="117585526" seo="true" ref="index"/>
+    <file name="scroll down.png" crc="4087954848" seo="true" ref="index"/>
+    <file name="scroll down_2x.png" crc="3907373081" seo="true" ref="index"/>
+    <file name="studio logo.png" crc="458655582" seo="true" ref="index"/>
+    <file name="studio logo_2x.png" crc="4250011556" seo="true" ref="index"/>
+    <file name="u184-4.png" crc="312992305" ref="index"/>
+    <file name="u184-4_2x.png" crc="429813981" ref="index"/>
   </folder>
-  <file name="index.html" crc="19157542" seo="true" mt="1479205911999" redirect="true"/>
+  <file name="index.html" crc="313589282" seo="true" mt="1479212090842" redirect="true"/>
 </manifest>

@@ -7,7 +7,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://musefree.com/images/scroll%20down.png</loc>
+    <lastmod>2016-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/images/scroll%20down_2x.png</loc>
+    <lastmod>2016-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://musefree.com/images/heart.png</loc>
+    <lastmod>2016-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/images/studio%20logo_2x.png</loc>
+    <lastmod>2016-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/images/studio%20logo.png</loc>
     <lastmod>2016-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
