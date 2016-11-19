@@ -55,25 +55,13 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://musefree.com/images/studio%20logo104x104_2x.png</loc>
+    <lastmod>2016-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://musefree.com/images/scroll%20down.png</loc>
-    <lastmod>2016-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/heart.png</loc>
-    <lastmod>2016-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/thedog858x483.jpg</loc>
-    <lastmod>2016-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/thedog858x483_2x.jpg</loc>
     <lastmod>2016-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -97,13 +85,37 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/burger%20menu%20white52x52_2x.png</loc>
+    <loc>http://musefree.com/images/camera.png</loc>
     <lastmod>2016-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo104x104_2x.png</loc>
+    <loc>http://musefree.com/images/camera_2x.png</loc>
+    <lastmod>2016-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/images/profile858x483.jpg</loc>
+    <lastmod>2016-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/images/profile858x483_2x.jpg</loc>
+    <lastmod>2016-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/images/burger%20menu%20white_2x.png</loc>
+    <lastmod>2016-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/images/heart.png</loc>
     <lastmod>2016-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
