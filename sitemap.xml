@@ -1,122 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://musefree.com/index.html</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/index.html</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/scroll%20down_2x.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/scroll%20down_2x.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/studio%20logo80x80.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo_2x.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/studio%20logo80x80_2x.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo80x80.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/camera.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo80x80_2x.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/camera_2x.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo96x96.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/studio%20logo.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo96x96_2x.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/studio%20logo_2x.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo104x104.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/scroll%20down.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo104x104_2x.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/studio%20logo40x40.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/scroll%20down.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/studio%20logo40x40_2x.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo62x62.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/studio%20logo62x62.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/studio%20logo62x62_2x.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/studio%20logo62x62_2x.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/burger%20menu%20white52x52.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/camera109x201.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/camera.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/camera109x201_2x.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/camera_2x.png</loc>
-    <lastmod>2016-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/profile858x483.jpg</loc>
-    <lastmod>2016-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/profile858x483_2x.jpg</loc>
-    <lastmod>2016-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/burger%20menu%20white_2x.png</loc>
-    <lastmod>2016-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/heart.png</loc>
-    <lastmod>2016-11-19</lastmod>
+    <loc>http://genextart.com/images/heart.png</loc>
+    <lastmod>2016-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
